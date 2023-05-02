@@ -3,7 +3,7 @@
     {
       "id": 1,
       "chef_picture": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?b=1&s=170667a&w=0&k=20&c=u8YsQd389XMzbBWFu3Y_iMNeMNi563YBKB7FyIDTkkA=",
-      "descripion":"I like to cooking very much ",
+      "description":"I like to cooking very much ",
       "chef_name": "Muhammad Rasel",
       "years_of_experience": 10,
       "num_recipes": 50,
@@ -23,14 +23,14 @@
     {
       "id": 2,
       "chef_picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Q2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
-      "descripion":"I like to cooking very much ",
+      "description":"I like to cooking very much ",
       "chef_name": "Muhammad Bikon Hossain",
       "years_of_experience": 8,
       "num_recipes": 40,
       "likes": 8000,
       "recipe_name1":"grilled-chicken",
       "food1_img":"https://media.istockphoto.com/id/1438722297/photo/bbq-grilled-chicken-platter-with-fried-rice-salad-and-dip-served-in-dish-top-view-of-fastfood.jpg?b=1&s=170667a&w=0&k=20&c=QlqnYOswd3fqt6EFtbhZX-Vt_2evHhepLAEuvzJOjfY=",
-       "food1_descripion":"Crispy fried chicken with mashed potatoes and gravy.",
+       "food1_description":"Crispy fried chicken with mashed potatoes and gravy.",
        "recipe_name2":"shawarma-with-fried-potatoes",
       "food2_img":"https://media.istockphoto.com/id/1330659176/photo/side-view-shawarma-with-fried-potatoes-in-board-cookware-on-stone-background.jpg?b=1&s=170667a&w=0&k=20&c=We-qmp87Ysk5_YWHQcc_XoiE0WWPGr0gl8vVrS_CLR0=",
       "food2_descripion":"chicken roll with vegeable",
@@ -42,7 +42,7 @@
     {
       "id": 3,
       "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFuZ2xhZGVzaGklMjBjaGVmfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "descripion":"I like to cooking very much ",
+      "description":"I like to cooking very much ",
       "chef_name": "Hossain Ahmed",
       "years_of_experience": 5,
       "num_recipes": 30,
@@ -61,7 +61,7 @@
     {
       "id": 4,
       "chef_picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "descripion":"I like to cooking very much ",
+      "description":"I like to cooking very much ",
       "chef_name": "MD Bojlu Miah",
       "years_of_experience": 12,
       "num_recipes": 60,
@@ -79,7 +79,7 @@
     {
       "id": 5,
       "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "descripion":"I like to cooking very much ",
+      "description":"I like to cooking very much ",
       "chef_name": "Maria Hossain Mariam",
       "years_of_experience": 6,
       "num_recipes": 25,
@@ -99,7 +99,7 @@
     {
       "id": 6,
       "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
-      "descripion":"I like to cooking very much ",
+      "description":"I like to cooking very much ",
       "chef_name": "Arafatul Islam",
       "years_of_experience": 3,
       "num_recipes": 20,
