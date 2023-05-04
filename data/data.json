@@ -74,13 +74,14 @@
        "food2_descripion":"Hot Spicy Crispy fried chicken with mashed potatoes and gravy.",
        "recipe_name3":"chicken burger",
       "food3_img":"https://images.unsplash.com/photo-1512152272829-e3139592d56f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJhbmdsYWRlc2hpJTIwJTIwY2hpY2tlbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
-       "food3_descripion":"chicken burger and salad with prence fry"
+       "food3_descripion":"chicken burger and salad with prence fry",
+               "rating":4.8
     },
     {
       "id": 5,
       "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "description":"I like to cooking very much ",
-      "chef_name": "Maria Hossain Mariam",
+      "chef_name": "Hossain Ahmed",
       "years_of_experience": 6,
       "num_recipes": 25,
       "likes": 6000,
